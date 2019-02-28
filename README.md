@@ -48,4 +48,4 @@ Part I is very straight forward and easy to follow through. I'm still working on
 <img src="http://g.recordit.co/ZD0tyahxEF.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Setting up correct width and number of pictures on a row was challenging.
